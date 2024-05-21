@@ -11,4 +11,4 @@ meu nome é juliana nascimento
    juju.nasci.godoy@gmail.com
 
 ![]()
-<img src="https://media1.tenor.com/m/QGYOjLUamAkAAAAC/hello-kitty-cafe.gif"
+<img src="https://media1.tenor.com/m/QGYOjLUamAkAAAAC/hello-kitty-cafe.gif" alt="Hello Kitty Cafe GIF - Hello Kitty Cafe Cute GIFs"/>![image])
